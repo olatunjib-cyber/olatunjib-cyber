@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/Web%20Application%20Security-006400?style=for-the-badge&logo=owasp&logoColor=white" />
 <img src="https://img.shields.io/badge/Network%20Security-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/Digital%20Forensics-4B0082?style=for-the-badge&logo=forensics&logoColor=white" />
-<img src="https://img.shields.io/badge/Security Operation%Center-00599C?style=for-the-badge&logo=forensics&logoColor=white" />
+<img src="https://img.shields.io/badge/Security Operation%20Center-00599C?style=for-the-badge&logo=forensics&logoColor=white" />
 </p>
 
 <h3>🌐 Networking</h3>

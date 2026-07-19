@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋Hi there, I'm <strong>Olatunji Balogun</strong> <br><br>I'm a <strong>Cybersecurity Instructor</strong>, <strong>SOC Analyst</strong>, and <strong>Penetration Tester</strong> passionate about helping individuals and organizations build secure digital environments. My interests span <strong>Ethical Hacking</strong>, <strong>Digital Forensics</strong>, <strong>Threat Detection</strong>, and <strong>Incident Response</strong>. I enjoy building practical security projects, conducting hands-on penetration testing, exploring emerging cybersecurity technologies, and continuously enhancing my skills through research, labs, and real-world security challenges. My goal is to educate, secure, and empower the next generation of cybersecurity professionals..<br><br>🔭 I’m currently working on Cybersecurity, offensive security, SIEM, Threat Detection,Malware Analysis Digital Forensics, and Penetration Testing projects.<br><br>🤝 I’m looking to collaborate on Open Source Security Tools, Threat Hunting, Blue Team, and Red Team projects.<br><br>💬 Ask me about Cybersecurity, Ethical Hacking, Digital Forensics, Linux, Python, and IT Support.<br><br>⚡ Fun fact: I believe the best way to learn cybersecurity is by building, breaking, and defending systems in safe lab environments.<br><br>🎯 Goal: Help train the next generation of cybersecurity professionals.
+## 👋Hi there, I'm <strong>Olatunji Balogun</strong> <br><br>I'm a <strong>Cybersecurity Instructor</strong>, <strong>SOC Analyst</strong>, and <strong>Penetration Tester</strong> passionate about helping individuals and organizations build secure digital environments. My interests span <strong>Ethical Hacking</strong>, <strong>Digital Forensics</strong>, <strong>Threat Detection</strong>, and <strong>Incident Response</strong>. I enjoy building practical security projects, conducting hands-on penetration testing, exploring emerging cybersecurity technologies, and continuously enhancing my skills through research, labs, and real-world security challenges. My goal is to educate, secure, and empower the next generation of cybersecurity professionals..<br><br>🔭 I’m currently working on Cybersecurity, offensive security, SIEM, Threat Detection, Malware Analysis, Digital Forensics, and Penetration Testing projects.<br><br>🤝 I’m looking to collaborate on Open Source Security Tools, Threat Hunting, Blue Team, and Red Team projects.<br><br>💬 Ask me about Cybersecurity, Ethical Hacking, Digital Forensics, Linux, Python, and IT Support.<br><br>⚡ Fun fact: I believe the best way to learn cybersecurity is by building, breaking, and defending systems in safe lab environments.<br><br>🎯 Goal: Help train the next generation of cybersecurity professionals.
 
 
 
@@ -24,21 +24,27 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
-## 🚀 Skills
+<h2>🚀 Skills</h2>
 
-### Security
-- Ethical Hacking
-- Penetration Testing
-- Vulnerability Assessment
-- Web Application Security
-- Network Security
-- Digital Forensics
+<h3>🛡️ Security</h3>
 
-### Networking
-- Cisco Networking
-- TCP/IP
-- Routing & Switching
-- Network Troubleshooting
+<p>
+<img src="https://img.shields.io/badge/Ethical%20Hacking-FF0000?style=for-the-badge&logo=hackerone&logoColor=white" />
+<img src="https://img.shields.io/badge/Penetration%20Testing-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Vulnerability%20Assessment-DC143C?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+<img src="https://img.shields.io/badge/Web%20Application%20Security-006400?style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/Network%20Security-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Digital%20Forensics-4B0082?style=for-the-badge&logo=forensics&logoColor=white" />
+</p>
+
+<h3>🌐 Networking</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/TCP%2FIP-0078D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Routing%20%26%20Switching-FF6600?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Network%20Troubleshooting-2E8B57?style=for-the-badge" />
+</p>
 
  
 # 📊 GitHub Stats:
